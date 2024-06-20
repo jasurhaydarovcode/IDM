@@ -1,0 +1,18 @@
+REGEDIT4
+
+:THIS IS FOR 32bit OS MACHINES
+[HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
+"FName"="HANTech /"
+"InstallStatus"=dword:00000003
+"LName"="HANTech"
+"Email"="info@tonec.com"
+"Serial"="HE3TB-8J3SY-FP9SC-6RKR2"
+
+
+:THIS IS FOR 64bit OS MACHINES
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Internet Download Manager]
+"FName"="HANTech /"
+"InstallStatus"=dword:00000003
+"LName"="HANTech"
+"Email"="info@tonec.com"
+"Serial"="HE3TB-8J3SY-FP9SC-6RKR2"
